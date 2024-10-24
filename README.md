@@ -38,7 +38,7 @@ This is an advanced C# desktop application built using Windows Forms and demonst
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/advanced-csharp-desktop-app.git
+   [git clone https://github.com/luannndev/CSharp-Dashboard-App.git
    ```
    
 2. **Open the project**:
